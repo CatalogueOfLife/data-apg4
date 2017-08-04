@@ -6,8 +6,7 @@
 <dataset>
     <title>APG IV: Angiosperm Phylogeny Group classification for the orders and families of flowering plants</title>
     <creator>
-        <organizationName>University of Tartu</organizationName>
-        <electronicMailAddress>info@plutof.ut.ee</electronicMailAddress>
+        <organizationName>Angiosperm Phylogeny Group</organizationName>
     </creator>
     <metadataProvider>
         <individualName>
@@ -56,12 +55,5 @@
         <electronicMailAddress>peter.stevens@mobot.org</electronicMailAddress>
     </contact>
 </dataset>
-
-
-Angiosperm Phylogeny Group (2016). "An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering plants: APG IV" (PDF). Botanical Journal of the Linnean Society. 181 (1): 1–20. doi:10.1111/boj.12385. Retrieved 11 June 2016.
-
-Byng, James W; Chase, Mark; Christenhusz, Maarten; Stevens, Peter (2016). "Angiosperm phylogeny classification of flowering plants (APG IV) with the families organized alphabetically within orders". Botanical Journal of the Linnean Society. 181.
-https://www.researchgate.net/publication/299543574_Angiosperm_phylogeny_classification_of_flowering_plants_APG_IV_with_the_families_organized_alphabetically_within_orders
-
 
 </eml:eml>
