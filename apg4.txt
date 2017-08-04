@@ -175,7 +175,7 @@ Paeoniaceae	family	Raf.	Saxifragales		nom. cons.
 Penthoraceae	family	Rydb. ex Britton	Saxifragales		nom. cons.
 Peridiscaceae	family	Kuhlm.	Saxifragales		nom. cons.
 Saxifragaceae	family	Juss.	Saxifragales		nom. cons.
-Tetracarpaeaceae	family	Nakai	Saxifragales			
+Tetracarpaeaceae	family	Nakai	Saxifragales		
 rosids	clade		superrosids		
 Celastrales	order	Link	rosids		
 Celastraceae	family	R.Br.	Celastrales		nom. cons.
@@ -396,7 +396,7 @@ Rivinaceae	family	C.Agardh	Caryophyllales
 Sarcobataceae	family	Behnke	Caryophyllales		
 Simmondsiaceae	family	Tiegh.	Caryophyllales		
 Stegnospermataceae	family	Nakai	Caryophyllales		
-Talinaceae	family	Doweld	Caryophyllales	Plantae		
+Talinaceae	family	Doweld	Caryophyllales		
 Tamaricaceae	family	Link	Caryophyllales		nom. cons.
 asterids	clade		superasterids		
 Cornales	order	Link	asterids		
@@ -405,7 +405,7 @@ Curtisiaceae	family	Takht.	Cornales
 Grubbiaceae	family	Endl. ex Meisn.	Cornales		nom. cons.
 Hydrangeaceae	family	Dumort.	Cornales		nom. cons.
 Hydrostachyaceae	family	Engl.	Cornales		nom. cons.
-Loasaceae	family	Juss.	Cornales	Plantae		nom. cons.
+Loasaceae	family	Juss.	Cornales		nom. cons.
 Nyssaceae	family	Juss. ex Dumort.	Cornales		nom. cons.
 Ericales	order	Bercht. & J.Presl	asterids		
 Actinidiaceae	family	Gilg & Werderm.	Ericales		nom. cons.
@@ -450,7 +450,7 @@ Boraginales	order	Juss. ex Bercht. & J.Presl	lamiids
 Boraginaceae	family	Juss.	Boraginales		nom. cons.
 Codonaceae	family	Weigend & Hilger		Boraginaceae	
 Vahliales	order	Doweld	lamiids		
-Vahliaceae	family	Dandy	Vahliales	Plantae		
+Vahliaceae	family	Dandy	Vahliales		
 Solanales	order	Juss. ex Bercht. & J.Presl	lamiids		
 Convolvulaceae	family	Juss.	Solanales		nom. cons.
 Hydroleaceae	family	R.Br. 	Solanales		
@@ -523,4 +523,4 @@ Griseliniaceae	family	Takht.	Apiales		nom. cons. prop.
 Myodocarpaceae	family	Doweld	Apiales		
 Pennantiaceae	family	J.Agardh	Apiales		
 Pittosporaceae	family	R.Br.	Apiales		nom. cons.
-Torricelliaceae	family	Hu	Apiales	
+Torricelliaceae	family	Hu	Apiales		
