@@ -1,4 +1,4 @@
-scientificName	taxonRank	scientificNameAuthorship	parentNameUsage	acceptedNameUsage	nomenclaturalStatus	
+scientificName	taxonRank	scientificNameAuthorship	parentNameUsage	acceptedNameUsage	nomenclaturalStatus
 Plantae	kingdom				
 angiosperms	clade		Plantae		
 Amborellales	order	Melikyan, A.V.Bobrov & Zaytzeva	angiosperms		
@@ -83,7 +83,7 @@ Asparagales	order	Link	monocots
 Amaryllidaceae	family	J.St.-Hil.	Asparagales		nom. cons.
 Asparagaceae	family	Juss.	Asparagales		nom. cons.
 Asphodelaceae	family	Juss.	Asparagales		nom. cons. prop.
-Xanthorrhoeaceae	family	Dumort.		Asphodelaceae	nom. cons.	
+Xanthorrhoeaceae	family	Dumort.		Asphodelaceae	nom. cons.
 Asteliaceae	family	Dumort.	Asparagales		
 Blandfordiaceae	family	R.Dahlgren & Clifford	Asparagales		
 Boryaceae	family	M.W.Chase, Rudall & Conran	Asparagales		
@@ -197,7 +197,7 @@ Caryocaraceae	family	Voigt	Malpighiales
 Centroplacaceae	family	Doweld & Reveal 	Malpighiales		
 Chrysobalanaceae	family	R.Br.	Malpighiales		nom. cons.
 Clusiaceae	family	Lindl.	Malpighiales		nom. cons.
-Guttiferae	family	Juss.		Clusiaceae	nom. cons.	
+Guttiferae	family	Juss.		Clusiaceae	nom. cons.
 Ctenolophonaceae	family	Exell & Mendonça	Malpighiales		
 Dichapetalaceae	family	Baill.	Malpighiales		nom. cons.
 Elatinaceae	family	Dumort.	Malpighiales		nom. cons.
@@ -473,7 +473,6 @@ Mazaceae	family	Reveal	Lamiales
 Oleaceae	family	Hoffmanns. & Link	Lamiales		nom. cons.
 Orobanchaceae	family	Vent.	Lamiales		nom. cons.
 Lindenbergiaceae	family	Doweld		Orobanchaceae	
-Lindenbergiaceae	family	Reveal		Orobanchaceae	
 Paulowniaceae	family	Nakai	Lamiales		
 Pedaliaceae	family	R.Br.	Lamiales		nom. cons.
 Phrymaceae	family	Schauer	Lamiales		nom. cons.
@@ -513,11 +512,11 @@ Columelliaceae	family	D.Don	Bruniales		nom. cons.
 Paracryphiales	order	Takht. ex Reveal	campanulids		
 Paracryphiaceae	family	Airy Shaw 	Paracryphiales		
 Dipsacales	order	Juss. ex Bercht. & J.Presl	campanulids		
-Adoxaceae	family	E.Mey.,nom. cons.	Dipsacales		
+Adoxaceae	family	E.Mey.	Dipsacales		nom. cons.
 Caprifoliaceae	family	Juss.	Dipsacales		nom. cons.
 Apiales	order	Nakai	campanulids		
 Apiaceae	family	Lindl.	Apiales		nom. cons.
-Umbelliferae	family	Juss.		Apiaceae	nom. cons.	
+Umbelliferae	family	Juss.		Apiaceae	nom. cons.
 Araliaceae	family	Juss.	Apiales		nom. cons.
 Griseliniaceae	family	Takht.	Apiales		nom. cons. prop.
 Myodocarpaceae	family	Doweld	Apiales		
