@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archive xmlns="http://rs.tdwg.org/dwc/text/"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:xs="http://www.w3.org/2001/XMLSchema"
+	xsi:schemaLocation="http://rs.tdwg.org/dwc/text/ http://rs.tdwg.org/dwc/text/tdwg_dwc_text.xsd">
+    <core encoding="UTF-8" fieldsTerminatedBy="\t" linesTerminatedBy="\n" fieldsEnclosedBy='' ignoreHeaderLines="1" rowType="http://rs.tdwg.org/dwc/terms/Taxon">
+		<files>
+			<location>apg4.txt</location>
+		</files>
+	    <id index="0" />
+		<field index="0" term="http://rs.tdwg.org/dwc/terms/scientificName" />
+		<field index="1" term="http://rs.tdwg.org/dwc/terms/taxonRank" />
+		<field index="2" term="http://rs.tdwg.org/dwc/terms/scientificNameAuthorship" />
+		<field index="3" term="http://rs.tdwg.org/dwc/terms/parentNameUsage" />
+		<field index="4" term="http://rs.tdwg.org/dwc/terms/acceptedNameUsage" />
+		<field index="5" term="http://rs.tdwg.org/dwc/terms/nomenclaturalStatus" />
+		<field default="Plantae" term="http://rs.tdwg.org/dwc/terms/kingdom" />
+		<field default="ICN" term="http://rs.tdwg.org/dwc/terms/nomenclaturalCode" />
+	</core>	
+</archive>

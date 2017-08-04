@@ -1,0 +1,526 @@
+scientificName	taxonRank	scientificNameAuthorship	parentNameUsage	acceptedNameUsage	nomenclaturalStatus	
+Plantae	kingdom				
+angiosperms	clade		Plantae		
+Amborellales	order	Melikyan, A.V.Bobrov & Zaytzeva	angiosperms		
+Amborellaceae	family	Pichon	Amborellales		nom. cons.
+Nymphaeales	order	Salisb. ex Bercht. & J.Presl	angiosperms		
+Cabombaceae	family	Rich. ex A.Rich.	Nymphaeales		nom. cons.
+Hydatellaceae	family	U.Hamann.	Nymphaeales		
+Nymphaeaceae	family	Salisb.	Nymphaeales		nom. cons.
+Austrobaileyales	order	Takht. ex Reveal	angiosperms		
+Austrobaileyaceae	family	Croizat	Austrobaileyales		nom. cons.
+Schisandraceae	family	Blume	Austrobaileyales		nom. cons.
+Trimeniaceae	family	Gibbs	Austrobaileyales		nom. cons.
+magnoliids	clade		angiosperms		
+Canellales	order	Cronq.	magnoliids		
+Canellaceae	family	Mart.	Canellales		nom. cons.
+Winteraceae	family	R.Br. ex Lindl.	Canellales		nom. cons.
+Piperales	order	Bercht. & J.Presl	magnoliids		
+Aristolochiaceae	family	Juss.	Piperales		nom. cons.
+Hydnoraceae	family	C.Agardh		Aristolochiaceae	nom. cons.
+Lactoridaceae	family	Engl.		Aristolochiaceae	nom. cons.
+Piperaceae	family	Giseke	Piperales		nom. cons.
+Saururaceae	family	Rich. ex T.Lestib.	Piperales		nom. cons.
+Magnoliales	order	Juss. ex Bercht. & J.Presl	magnoliids		
+Annonaceae	family	Juss.	Magnoliales		nom. cons.
+Degeneriaceae	family	I.W.Bailey & A.C.Sm.	Magnoliales		nom. cons.
+Eupomatiaceae	family	Orb.	Magnoliales		nom. cons.
+Himantandraceae	family	Diels	Magnoliales		nom. cons.
+Myristicaceae	family	R.Br.	Magnoliales		nom. cons.
+Magnoliaceae	family	Juss.	Magnoliales		nom. cons.
+Laurales	order	Juss. ex Bercht. & J.Presl	magnoliids		
+Atherospermataceae	family	R.Br.	Laurales		
+Calycanthaceae	family	Lindl.	Laurales		nom. cons.
+Gomortegaceae	family	Reiche	Laurales		nom. cons.
+Hernandiaceae	family	Blume	Laurales		nom. cons.
+Lauraceae	family	Juss.	Laurales		nom. cons.
+Monimiaceae	family	Juss.	Laurales		nom. cons.
+Siparunaceae	family	Schodde	Laurales		
+Chloranthales	order	Mart.	angiosperms		
+Chloranthaceae	family	R.Br. ex Sims	Chloranthales		nom. cons.
+monocots	clade		Plantae		
+Acorales	order	Mart.	monocots		
+Acoraceae	family	Martinov	Acorales		
+Alismatales	order	R.Br. ex Bercht. & J.Presl	monocots		
+Alismataceae	family	Vent.	Alismatales		nom. cons.
+Aponogetonaceae	family	Planch.	Alismatales		nom. cons.
+Araceae	family	Juss.	Alismatales		nom. cons.
+Butomaceae	family	Mirb.	Alismatales		nom. cons.
+Cymodoceaceae	family	Vines	Alismatales		nom. cons.
+Hydrocharitaceae	family	Juss.	Alismatales		nom. cons.
+Juncaginaceae	family	Rich.	Alismatales		nom. cons.
+Maundiaceae	family	Nakai	Alismatales		
+Posidoniaceae	family	Vines	Alismatales		nom. cons.
+Potamogetonaceae	family	Bercht. & J.Presl	Alismatales		nom. cons.
+Ruppiaceae	family	Horan.	Alismatales		nom. cons.
+Scheuchzeriaceae	family	F.Rudolphi	Alismatales		nom. cons.
+Tofieldiaceae	family	Takht.	Alismatales		
+Zosteraceae	family	Dumort.	Alismatales		nom. cons.
+Petrosaviales	order	Takht.	monocots		
+Petrosaviaceae	family	Hutch.	Petrosaviales		nom. cons.
+Dioscoreales	order	Mart.	monocots		
+Burmanniaceae	family	Blume	Dioscoreales		nom. cons.
+Dioscoreaceae	family	R.Br.	Dioscoreales		nom. cons
+Nartheciaceae	family	Fr. ex Bjurzon	Dioscoreales		
+Pandanales	order	R.Br. ex Bercht. & J.Presl	monocots		
+Cyclanthaceae	family	Poit. ex A.Rich.	Pandanales		nom. cons.
+Pandanaceae	family	R.Br.	Pandanales		nom. cons.
+Stemonaceae	family	Caruel	Pandanales		nom. cons.
+Triuridaceae	family	Gardner	Pandanales		nom. cons.
+Velloziaceae	family	J.Agardh	Pandanales		nom. cons.
+Liliales	order	Perleb	monocots		
+Alstroemeriaceae	family	Dumort.	Liliales		nom. cons.
+Campynemataceae	family	Dumort.	Liliales		
+Colchicaceae	family	DC.	Liliales		nom. cons.
+Corsiaceae	family	Becc.	Liliales		nom. cons.
+Liliaceae	family	Juss.	Liliales		nom. cons.
+Melanthiaceae	family	Batsch ex Borkh.	Liliales		nom. cons.
+Petermanniaceae	family	Hutch	Liliales		nom. cons.
+Philesiaceae	family	Dumort.	Liliales		nom. cons.
+Ripogonaceae	family	Conran & Clifford	Liliales		
+Smilacaceae	family	Vent.	Liliales		nom. cons.
+Asparagales	order	Link	monocots		
+Amaryllidaceae	family	J.St.-Hil.	Asparagales		nom. cons.
+Asparagaceae	family	Juss.	Asparagales		nom. cons.
+Asphodelaceae	family	Juss.	Asparagales		nom. cons. prop.
+Xanthorrhoeaceae	family	Dumort.		Asphodelaceae	nom. cons.	
+Asteliaceae	family	Dumort.	Asparagales		
+Blandfordiaceae	family	R.Dahlgren & Clifford	Asparagales		
+Boryaceae	family	M.W.Chase, Rudall & Conran	Asparagales		
+Doryanthaceae	family	R.Dahlgren & Clifford	Asparagales		
+Hypoxidaceae	family	R.Br.	Asparagales		nom. cons.
+Iridaceae	family	Juss.	Asparagales		nom. cons.
+Ixioliriaceae	family	Nakai	Asparagales		
+Lanariaceae	family	H.Huber ex R.Dahlgren	Asparagales		
+Orchidaceae	family	Juss.	Asparagales		nom. cons.
+Tecophilaeaceae	family	Leyb.	Asparagales		nom. cons.
+Xeronemataceae	family	M.W.Chase, Rudall & M.F.Fay	Asparagales		
+Arecales	order	Bromhead	monocots		
+Dasypogonaceae	family	Dumort.	Arecales		
+Arecaceae	family	Bercht. & J.Presl	Arecales		nom. cons.
+Palmae	family	Juss.		Arecaceae	nom. cons.
+Commelinales	order	Mirb. ex Bercht. & J.Presl	monocots		
+Commelinaceae	family	Mirb.	Commelinales		nom. cons.
+Haemodoraceae	family	R.Br.	Commelinales		nom. cons.
+Hanguanaceae	family	Airy Shaw	Commelinales		
+Philydraceae	family	Link	Commelinales		nom. cons.
+Pontederiaceae	family	Kunth	Commelinales		nom. cons.
+Zingiberales	order	Griseb.	monocots		
+Cannaceae	family	Juss.	Zingiberales		nom. cons.
+Costaceae	family	Nakai	Zingiberales		
+Heliconiaceae	family	Vines	Zingiberales		
+Lowiaceae	family	Ridl.	Zingiberales		nom. cons.
+Marantaceae	family	R.Br.	Zingiberales		nom. cons.
+Musaceae	family	Juss.	Zingiberales		nom. cons.
+Strelitziaceae	family	Hutch.	Zingiberales		nom. cons.
+Zingiberaceae	family	Martinov	Zingiberales		nom. cons.
+Poales	order	Small	monocots		
+Bromeliaceae	family	Juss.	Poales		nom. cons.
+Cyperaceae	family	Juss.	Poales		nom. cons.
+Ecdeiocoleaceae	family	D.W.Cutler & Airy Shaw	Poales		
+Eriocaulaceae	family	Martinov	Poales		nom. cons.
+Flagellariaceae	family	Dumort.	Poales		nom. cons.
+Joinvilleaceae	family	Toml. & A.C.Sm.	Poales		
+Juncaceae	family	Juss.	Poales		nom. cons.
+Mayacaceae	family	Kunth	Poales		nom. cons.
+Poaceae	family	Barnhart	Poales		nom. cons.
+Gramineae	family	Juss.		Poaceae	nom. alt.
+Rapateaceae	family	Dumort.	Poales		nom. cons.
+Restionaceae	family	R.Br.	Poales		nom. cons.
+Anarthriaceae	family	D.W.Cutler & Airy Shaw		Restionaceae	
+Centrolepidaceae	family	Endl.		Restionaceae	nom. cons.
+Thurniaceae	family	Engl.	Poales		nom. cons.
+Typhaceae	family	Juss.	Poales		nom. cons.
+Xyridaceae	family	C.Agardh	Poales		nom. cons.
+Ceratophyllales	order	Link	Plantae		
+Ceratophyllaceae	family	Gray	Ceratophyllales		nom. cons.
+eudicots	clade		Plantae		
+Ranunculales	order	Juss. ex Bercht. & J.Presl	eudicots		
+Berberidaceae	family	Juss.	Ranunculales		nom. cons.
+Circaeasteraceae	family	Hutch.	Ranunculales		nom. cons.
+Eupteleaceae	family	K.Wilh.	Ranunculales		nom. cons.
+Lardizabalaceae	family	R.Br.	Ranunculales		nom. cons.
+Menispermaceae	family	Juss.	Ranunculales		nom. cons.
+Papaveraceae	family	Juss.	Ranunculales		nom. cons.
+Ranunculaceae	family	Juss.	Ranunculales		nom. cons.
+Proteales	order	Juss. ex Bercht. & J.Presl	eudicots		
+Nelumbonaceae	family	A.Rich.	Proteales		nom. cons.
+Platanaceae	family	T.Lesti	Proteales		nom. cons.
+Proteaceae	family	Juss.	Proteales		nom. cons.
+Sabiaceae	family	Blume	Proteales		nom. cons.
+Trochodendrales	order	Takht. ex Cronq.	eudicots		
+Trochodendraceae	family	Eichler	Trochodendrales		nom. cons.
+Buxales	order	Takht. ex Reveal	eudicots		
+Buxaceae	family	Dumort.	Buxales		nom. cons.
+Haptanthaceae	family	C.Nelson		Buxaceae	
+core eudicots	clade		eudicots		
+Gunnerales	order	Takht. ex Reveal	core eudicots		
+Gunneraceae	family	Meisn.	Gunnerales		nom. cons.
+Myrothamnaceae	family	Nied.	Gunnerales		nom. cons.
+Dilleniales	order	DC. ex Bercht. & J.Presl	core eudicots		
+Dilleniaceae	family	Salisb.	Dilleniales		nom. cons.
+superrosids	clade		core eudicots		
+Saxifragales	order	Bercht. & J.Presl	superrosids		
+Altingiaceae	family	Lindl.	Saxifragales		nom. cons.
+Aphanopetalaceae	family	Doweld	Saxifragales		
+Cercidiphyllaceae	family	Engl.	Saxifragales		nom. cons.
+Crassulaceae	family	J.St.-Hil.	Saxifragales		nom. cons.
+Cynomoriaceae	family	Endl. ex Lindl.	Saxifragales		nom. cons.
+Daphniphyllaceae	family	Müll.Arg.	Saxifragales		nom. cons.
+Grossulariaceae	family	DC.	Saxifragales		nom. cons.
+Haloragaceae	family	R.Br.	Saxifragales		nom. cons.
+Hamamelidaceae	family	R.Br.	Saxifragales		nom. cons.
+Iteaceae	family	J.Agardh	Saxifragales		nom. cons.
+Paeoniaceae	family	Raf.	Saxifragales		nom. cons.
+Penthoraceae	family	Rydb. ex Britton	Saxifragales		nom. cons.
+Peridiscaceae	family	Kuhlm.	Saxifragales		nom. cons.
+Saxifragaceae	family	Juss.	Saxifragales		nom. cons.
+Tetracarpaeaceae	family	Nakai	Saxifragales			
+rosids	clade		superrosids		
+Celastrales	order	Link	rosids		
+Celastraceae	family	R.Br.	Celastrales		nom. cons.
+Lepidobotryaceae	family	J.Léonard	Celastrales		nom. cons.
+Oxalidales	order	Bercht. & J.Presl	rosids		
+Brunelliaceae	family	Engl.	Oxalidales		nom. cons.
+Cephalotaceae	family	Dumort.	Oxalidales		nom. cons.
+Connaraceae	family	R.Br.	Oxalidales		nom. cons.
+Cunoniaceae	family	R.Br.	Oxalidales		nom. cons.
+Elaeocarpaceae	family	Juss.	Oxalidales		nom. cons.
+Huaceae	family	A.Chev.	Oxalidales		
+Oxalidaceae	family	R.Br.	Oxalidales		nom. cons.
+Malpighiales	order	Juss. ex Bercht. & J.Presl	rosids		
+Achariaceae	family	Harms	Malpighiales		nom. cons.
+Balanopaceae	family	Benth. & Hook.f.	Malpighiales		nom. cons.
+Bonnetiaceae	family	L.Beauvis. ex Nakai	Malpighiales		
+Calophyllaceae	family	J.Agardh	Malpighiales		
+Caryocaraceae	family	Voigt	Malpighiales		
+Centroplacaceae	family	Doweld & Reveal 	Malpighiales		
+Chrysobalanaceae	family	R.Br.	Malpighiales		nom. cons.
+Clusiaceae	family	Lindl.	Malpighiales		nom. cons.
+Guttiferae	family	Juss.		Clusiaceae	nom. cons.	
+Ctenolophonaceae	family	Exell & Mendonça	Malpighiales		
+Dichapetalaceae	family	Baill.	Malpighiales		nom. cons.
+Elatinaceae	family	Dumort.	Malpighiales		nom. cons.
+Erythroxylaceae	family	Kunth	Malpighiales		nom. cons.
+Euphorbiaceae	family	Juss.	Malpighiales		nom. cons.
+Euphroniaceae	family	Marc.-Berti	Malpighiales		
+Goupiaceae	family	Miers	Malpighiales		
+Humiriaceae	family	A.Juss.	Malpighiales		nom. cons.
+Hypericaceae	family	Juss.	Malpighiales		nom. cons.
+Irvingiaceae	family	Exell & Mendonça	Malpighiales		nom. cons.
+Ixonanthaceae	family	Planch. ex Miq.	Malpighiales		nom. cons.
+Lacistemataceae	family	Mart.	Malpighiales		nom. cons.
+Linaceae	family	DC. ex Perleb	Malpighiales		nom. cons.
+Lophopyxidaceae	family	H.Pfeiff.	Malpighiales		
+Malpighiaceae	family	Juss.	Malpighiales		nom. cons.
+Ochnaceae	family	DC.	Malpighiales		nom. cons.
+Pandaceae	family	Engl. & Gilg	Malpighiales		nom. cons.
+Passifloraceae	family	Juss. ex Roussel	Malpighiales		nom. cons.
+Peraceae	family	Klotzsch	Malpighiales		
+Phyllanthaceae	family	Martinov	Malpighiales		nom. cons.
+Picrodendraceae	family	Small	Malpighiales		nom. cons.
+Podostemaceae	family	Rich. ex Kunth	Malpighiales		nom. cons.
+Putranjivaceae	family	Meisn.	Malpighiales		
+Rafflesiaceae	family	Dumort.	Malpighiales		nom. cons.
+Rhizophoraceae	family	Pers.	Malpighiales		nom. cons.
+Salicaceae	family	Mirb.	Malpighiales		nom. cons.
+Trigoniaceae	family	A.Juss.	Malpighiales		nom. cons.
+Violaceae	family	Batsch	Malpighiales		nom. cons.
+Vitales	order	Juss. ex Bercht. & J.Presl	rosids		
+Vitaceae	family	Juss.	Vitales		nom. cons.
+fabids	clade		rosids		
+Zygophyllales	order	Link	fabids		
+Krameriaceae	family	Dumort.	Zygophyllales		nom. cons.
+Zygophyllaceae	family	R.Br.	Zygophyllales		nom. cons.
+Fabales	order	Bromhead	fabids		
+Fabaceae	family	Lindl.	Fabales		nom. cons.
+Leguminosae	family	Juss.		Fabaceae	nom. cons.
+Polygalaceae	family	Hoffmanns. & Link	Fabales		nom. cons.
+Quillajaceae	family	D.Don	Fabales		
+Surianaceae	family	Arn.	Fabales		nom. cons.
+Rosales	order	Bercht. & J.Presl	fabids		
+Barbeyaceae	family	Rendle	Rosales		nom. cons.
+Cannabaceae	family	Martinov	Rosales		nom. cons.
+Dirachmaceae	family	Hutch.	Rosales		
+Elaeagnaceae	family	Juss.	Rosales		nom. cons.
+Moraceae	family	Gaudich.	Rosales		nom. cons.
+Rhamnaceae	family	Juss.	Rosales		nom. cons.
+Rosaceae	family	Juss.	Rosales		nom. cons.
+Ulmaceae	family	Mirb.	Rosales		nom. cons.
+Urticaceae	family	Juss.	Rosales		nom. cons.
+Fagales	order	Engl.	fabids		
+Betulaceae	family	Gray	Fagales		nom. cons.
+Casuarinaceae	family	R.Br.	Fagales		nom. cons.
+Fagaceae	family	Dumort.	Fagales		nom. cons.
+Juglandaceae	family	DC. ex Perleb	Fagales		nom. cons.
+Myricaceae	family	Rich. ex Kunth	Fagales		nom. cons.
+Nothofagaceae	family	Kuprian.	Fagales		
+Ticodendraceae	family	Gómez-Laur. & L.D.Gómez	Fagales		
+Cucurbitales	order	Juss. ex Bercht. & J.Presl	fabids		
+Anisophylleaceae	family	Ridl.	Cucurbitales		
+Apodanthaceae	family	Tiegh. ex Takht.	Cucurbitales		
+Begoniaceae	family	C.Agardh	Cucurbitales		nom. cons.
+Coriariaceae	family	DC.	Cucurbitales		nom. cons.
+Corynocarpaceae	family	Engl.	Cucurbitales		nom. cons.
+Cucurbitaceae	family	Juss.	Cucurbitales		nom. cons.
+Datiscaceae	family	Dumort.	Cucurbitales		nom. cons.
+Tetramelaceae	family	Airy Shaw	Cucurbitales		
+malvids	clade		rosids		
+Geraniales	order	Juss. ex Bercht. & J.Presl	malvids		
+Francoaceae	family	A.Juss.	Geraniales		nom. cons.
+Bersamaceae	family	Doweld		Francoaceae	
+Greyiaceae	family	Hutch.		Francoaceae	nom. cons.
+Ledocarpaceae	family	Meyen		Francoaceae	
+Melianthaceae	family	Horan.		Francoaceae	nom. cons.
+Rhynchothecaceae	family	A.Juss.		Francoaceae	
+Vivianiaceae	family	Klotzsch		Francoaceae	nom. cons.
+Geraniaceae	family	Juss.	Geraniales		nom. cons.
+Myrtales	order	Juss. ex Bercht. & J.Presl	malvids		
+Alzateaceae	family	S.A.Graham	Myrtales		
+Combretaceae	family	R.Br.	Myrtales		nom. cons.
+Crypteroniaceae	family	A.DC.	Myrtales		nom. cons.
+Lythraceae	family	J.St.-Hil.	Myrtales		nom. cons.
+Melastomataceae	family	Juss.	Myrtales		nom. cons.
+Myrtaceae	family	Juss.	Myrtales		nom. cons.
+Onagraceae	family	Juss.	Myrtales		nom. cons.
+Penaeaceae	family	Sweet ex Guill.	Myrtales		nom. cons.
+Vochysiaceae	family	A.St.-Hil.	Myrtales		nom. cons.
+Crossosomatales	order	Takht. ex Reveal	malvids		
+Aphloiaceae	family	Takht.	Crossosomatales		
+Crossosomataceae	family	Engl.	Crossosomatales		nom. cons.
+Geissolomataceae	family	A.DC.	Crossosomatales		nom. cons.
+Guamatelaceae	family	S.H.Oh & D.Potter	Crossosomatales		
+Stachyuraceae	family	J.Agardh	Crossosomatales		nom. cons.
+Staphyleaceae	family	Martinov	Crossosomatales		nom. cons.
+Strasburgeriaceae	family	Tiegh.	Crossosomatales		nom. cons.
+Picramniales	order	Doweld	malvids		
+Picramniaceae	family	Fernando & Quinn	Picramniales		
+Huerteales	order	Doweld	malvids		
+Dipentodontaceae	family	Merr.	Huerteales		nom. cons.
+Gerrardinaceae	family	M.H.Alford	Huerteales		
+Petenaeaceae	family	Christenh.,M.F.Fay & M.W.Chase	Huerteales		
+Tapisciaceae	family	Takht.	Huerteales		
+Sapindales	order	Juss. ex Bercht. & J. Presl	malvids		
+Anacardiaceae	family	R.Br.	Sapindales		nom. cons.
+Biebersteiniaceae	family	Schnizl.	Sapindales		
+Burseraceae	family	Kunth	Sapindales		nom. cons.
+Kirkiaceae	family	Takht.	Sapindales		
+Meliaceae	family	Juss.	Sapindales		nom. cons.
+Nitrariaceae	family	Lindl. 	Sapindales		
+Rutaceae	family	Juss.	Sapindales		nom. cons.
+Sapindaceae	family	Juss.	Sapindales		nom. cons.
+Xanthocerataceae	family	Buerki, Callm. & Lowry		Sapindaceae	
+Simaroubaceae	family	DC.	Sapindales		nom. cons.
+Malvales	order	Juss. ex Bercht. & J.Presl	malvids		
+Bixaceae	family	Kunth	Malvales		nom. cons.
+Cistaceae	family	Juss.	Malvales		nom. cons.
+Cytinaceae	family	A.Rich.	Malvales		
+Dipterocarpaceae	family	Blume	Malvales		nom. cons.
+Malvaceae	family	Juss.	Malvales		nom. cons.
+Muntingiaceae	family	C.Bayer, M.W.Chase & M.F.Fay	Malvales		
+Neuradaceae	family	Kostel.	Malvales		nom. cons.
+Sarcolaenaceae	family	Caruel	Malvales		nom. cons.
+Sphaerosepalaceae	family	Tiegh. ex Bullock 	Malvales		
+Thymelaeaceae	family	Juss.	Malvales		nom. cons.
+Brassicales	order	Bromhead	malvids		
+Akaniaceae	family	Stapf	Brassicales		nom. cons.
+Bataceae	family	Mart. ex Perleb	Brassicales		nom. cons.
+Brassicaceae	family	Burnett	Brassicales		nom. cons.
+Cruciferae	family	Juss.		Brassicaceae	nom. cons.
+Capparaceae	family	Juss.	Brassicales		nom. cons.
+Caricaceae	family	Dumort.	Brassicales		nom. cons.
+Cleomaceae	family	Bercht. & J.Presl	Brassicales		
+Emblingiaceae	family	Airy Shaw	Brassicales		
+Gyrostemonaceae	family	A.Juss.	Brassicales		nom. cons.
+Koeberliniaceae	family	Engl.	Brassicales		nom. cons.
+Limnanthaceae	family	R.Br.	Brassicales		nom. cons.
+Moringaceae	family	Martinov	Brassicales		nom. cons.
+Pentadiplandraceae	family	Hutch. & Dalziel	Brassicales		
+Resedaceae	family	Martinov	Brassicales		nom. cons.
+Borthwickiaceae	family	J.X.Su, Wei Wang, Li Bing Zhang & Z.D.Chen		Resedaceae	
+Stixidaceae	family	Doweld		Resedaceae	
+Salvadoraceae	family	Lindl.	Brassicales		nom. cons.
+Setchellanthaceae	family	Iltis	Brassicales		
+Tovariaceae	family	Pax	Brassicales		nom. cons.
+Tropaeolaceae	family	Juss. ex DC.	Brassicales		nom. cons.
+superasterids	clade		eudicots		
+Berberidopsidales	order	Doweld	superasterids		
+Aextoxicaceae	family	Engl. & Gilg	Berberidopsidales		nom. cons.
+Berberidopsidaceae	family	Takht.	Berberidopsidales		
+Santalales	order	R.Br. ex Bercht. & J.Presl	superasterids		
+Balanophoraceae	family	Rich.	Santalales		nom. cons.
+Loranthaceae	family	Juss.	Santalales		nom. cons.
+Misodendraceae	family	J.Agardh	Santalales		nom. cons.
+Olacaceae	family	R.Br.	Santalales		nom. cons.
+Opiliaceae	family	Valeton	Santalales		nom. cons.
+Santalaceae	family	R.Br.	Santalales		nom. cons.
+Amphorogynaceae	family	Nickrent & Der		Santalaceae	
+Cervantesiaceae	family	Nickrent & Der		Santalaceae	
+Comandraceae	family	Nickrent & Der		Santalaceae	
+Nanodeaceae	family	Nickrent & Der		Santalaceae	
+Schoepfiaceae	family	Blume	Santalales		
+Caryophyllales	order	Juss. ex Bercht. & J.Presl	superasterids		
+Achatocarpaceae	family	Heimerl	Caryophyllales		nom. cons.
+Aizoaceae	family	Martinov	Caryophyllales		nom. cons.
+Amaranthaceae	family	Juss.	Caryophyllales		nom. cons.
+Anacampserotaceae	family	Eggli & Nyffeler	Caryophyllales		
+Ancistrocladaceae	family	Planch. ex Walp.	Caryophyllales		nom. cons.
+Asteropeiaceae	family	Takht. ex Reveal & Hoogland	Caryophyllales		
+Barbeuiaceae	family	Nakai	Caryophyllales		
+Basellaceae	family	Raf.	Caryophyllales		nom. cons.
+Cactaceae	family	Juss.	Caryophyllales		nom. cons.
+Caryophyllaceae	family	Juss.	Caryophyllales		nom. cons.
+Didiereaceae	family	Radlk.	Caryophyllales		nom. cons.
+Dioncophyllaceae	family	Airy Shaw	Caryophyllales		nom. cons.
+Droseraceae	family	Salisb.	Caryophyllales		nom. cons.
+Drosophyllaceae	family	Chrtek, Slavíková & Studnička	Caryophyllales		
+Frankeniaceae	family	Desv.	Caryophyllales		nom. cons.
+Gisekiaceae	family	Nakai	Caryophyllales		
+Halophytaceae	family	S.Soriano	Caryophyllales		
+Kewaceae	family	Christenh.	Caryophyllales		
+Limeaceae	family	Shipunov ex Reveal	Caryophyllales		
+Lophiocarpaceae	family	Doweld & Reveal 	Caryophyllales		
+Macarthuriaceae	family	Christenh.	Caryophyllales		
+Microteaceae	family	Schäferhoff & Borsch	Caryophyllales		
+Molluginaceae	family	Bartl.	Caryophyllales		nom. cons.
+Montiaceae	family	Raf. 	Caryophyllales		
+Nepenthaceae	family	Dumort	Caryophyllales		nom. cons.
+Nyctaginaceae	family	Juss.	Caryophyllales		nom. cons.
+Physenaceae	family	Takht.	Caryophyllales		
+Phytolaccaceae	family	R.Br.	Caryophyllales		nom. cons.
+Plumbaginaceae	family	Juss.	Caryophyllales		nom. cons.
+Polygonaceae	family	Juss.	Caryophyllales		nom. cons.
+Portulacaceae	family	Juss.	Caryophyllales		nom. cons.
+Rhabdodendraceae	family	Prance	Caryophyllales		
+Rivinaceae	family	C.Agardh	Caryophyllales		
+Sarcobataceae	family	Behnke	Caryophyllales		
+Simmondsiaceae	family	Tiegh.	Caryophyllales		
+Stegnospermataceae	family	Nakai	Caryophyllales		
+Talinaceae	family	Doweld	Caryophyllales	Plantae		
+Tamaricaceae	family	Link	Caryophyllales		nom. cons.
+asterids	clade		superasterids		
+Cornales	order	Link	asterids		
+Cornaceae	family	Bercht. & J.Presl	Cornales		nom. cons.
+Curtisiaceae	family	Takht.	Cornales		
+Grubbiaceae	family	Endl. ex Meisn.	Cornales		nom. cons.
+Hydrangeaceae	family	Dumort.	Cornales		nom. cons.
+Hydrostachyaceae	family	Engl.	Cornales		nom. cons.
+Loasaceae	family	Juss.	Cornales	Plantae		nom. cons.
+Nyssaceae	family	Juss. ex Dumort.	Cornales		nom. cons.
+Ericales	order	Bercht. & J.Presl	asterids		
+Actinidiaceae	family	Gilg & Werderm.	Ericales		nom. cons.
+Balsaminaceae	family	A.Rich.	Ericales		nom. cons.
+Clethraceae	family	Klotzsch	Ericales		nom. cons.
+Cyrillaceae	family	Lindl.	Ericales		nom. cons.
+Diapensiaceae	family	Lindl.	Ericales		nom. cons.
+Ebenaceae	family	Gürke	Ericales		nom. cons.
+Ericaceae	family	Juss.	Ericales		nom. cons.
+Fouquieriaceae	family	DC.	Ericales		nom. cons.
+Lecythidaceae	family	A.Rich.	Ericales		nom. cons.
+Marcgraviaceae	family	Bercht. & J.Presl	Ericales		nom. cons.
+Mitrastemonaceae	family	Makino	Ericales		nom. cons.
+Pentaphylacaceae	family	Engl.	Ericales		nom. cons.
+Polemoniaceae	family	Juss.	Ericales		nom. cons.
+Primulaceae	family	Batsch ex Borkh.	Ericales		nom. cons.
+Roridulaceae	family	Martinov	Ericales		nom. cons.
+Sapotaceae	family	Juss.	Ericales		nom. cons.
+Sarraceniaceae	family	Dumort.	Ericales		nom. cons.
+Sladeniaceae	family	Airy Shaw 	Ericales		
+Styracaceae	family	DC. & Spreng.	Ericales		nom. cons.
+Symplocaceae	family	Desf.	Ericales		nom. cons.
+Tetrameristaceae	family	Hutch.	Ericales		
+Theaceae	family	Mirb.	Ericales		nom. cons.
+lamiids	clade		asterids		
+Icacinales	order	Tiegh.	lamiids		
+Icacinaceae	family	Miers	Icacinales		nom. cons.
+Oncothecaceae	family	Kobuski ex Airy Shaw 	Icacinales		
+Metteniusales	order	Takht.	lamiids		
+Metteniusaceae	family	H.Karst. ex Schnizl. 	Metteniusales		
+Garryales	order	Mart. 	lamiids		
+Eucommiaceae	family	Engl.	Garryales		nom. cons.
+Garryaceae	family	Lindl.	Garryales		nom. cons.
+Gentianales	order	Juss. ex Bercht. & J.Presl	lamiids		
+Apocynaceae	family	Juss.	Gentianales		nom. cons.
+Gelsemiaceae	family	L.Struwe & V.A.Albert	Gentianales		
+Pteleocarpaceae	family	Brummitt		Gelsemiaceae	
+Gentianaceae	family	Juss.	Gentianales		nom. cons.
+Loganiaceae	family	R.Br. ex Mart.	Gentianales		nom. cons.
+Rubiaceae	family	Juss.	Gentianales		nom. cons.
+Boraginales	order	Juss. ex Bercht. & J.Presl	lamiids		
+Boraginaceae	family	Juss.	Boraginales		nom. cons.
+Codonaceae	family	Weigend & Hilger		Boraginaceae	
+Vahliales	order	Doweld	lamiids		
+Vahliaceae	family	Dandy	Vahliales	Plantae		
+Solanales	order	Juss. ex Bercht. & J.Presl	lamiids		
+Convolvulaceae	family	Juss.	Solanales		nom. cons.
+Hydroleaceae	family	R.Br. 	Solanales		
+Montiniaceae	family	Nakai	Solanales		nom. cons.
+Solanaceae	family	Juss.	Solanales		nom. cons.
+Sphenocleaceae	family	T.Baskerv.	Solanales		nom. cons.
+Lamiales	order	Bromhead	lamiids		
+Acanthaceae	family	Juss.	Lamiales		nom. cons.
+Bignoniaceae	family	Juss.	Lamiales		nom. cons.
+Byblidaceae	family	Domin	Lamiales		nom. cons.
+Calceolariaceae	family	Olmstead	Lamiales		
+Carlemanniaceae	family	Airy Shaw	Lamiales		
+Gesneriaceae	family	Rich. & Juss.	Lamiales		nom. cons.
+Lamiaceae	family	Martinov	Lamiales		nom. cons.
+Labiatae	family	Juss.		Lamiaceae	
+Lentibulariaceae	family	Rich.	Lamiales		nom. cons.
+Linderniaceae	family	Borsch, K.Müll. & Eb.Fisch.	Lamiales		
+Martyniaceae	family	Horan.	Lamiales		nom. cons.
+Mazaceae	family	Reveal	Lamiales		
+Oleaceae	family	Hoffmanns. & Link	Lamiales		nom. cons.
+Orobanchaceae	family	Vent.	Lamiales		nom. cons.
+Lindenbergiaceae	family	Doweld		Orobanchaceae	
+Lindenbergiaceae	family	Reveal		Orobanchaceae	
+Paulowniaceae	family	Nakai	Lamiales		
+Pedaliaceae	family	R.Br.	Lamiales		nom. cons.
+Phrymaceae	family	Schauer	Lamiales		nom. cons.
+Plantaginaceae	family	Juss.	Lamiales		nom. cons.
+Plocospermataceae	family	Hutch.	Lamiales		
+Schlegeliaceae	family	Reveal	Lamiales		
+Scrophulariaceae	family	Juss.	Lamiales		nom. cons.
+Stilbaceae	family	Kunth	Lamiales		nom. cons.
+Tetrachondraceae	family	Wettst.	Lamiales		
+Thomandersiaceae	family	Sreem.	Lamiales		
+Verbenaceae	family	J.St.Hil.	Lamiales		nom. cons.
+campanulids	clade		asterids		
+Aquifoliales	order	Senft	campanulids		
+Aquifoliaceae	family	Bercht. & J.Presl	Aquifoliales		nom. cons.
+Cardiopteridaceae	family	Blume	Aquifoliales		nom. cons.
+Helwingiaceae	family	Decne.	Aquifoliales		
+Phyllonomaceae	family	Small	Aquifoliales		
+Stemonuraceae	family	Kårehed	Aquifoliales		
+Asterales	order	Link	campanulids		
+Alseuosmiaceae	family	Airy Shaw	Asterales		
+Argophyllaceae	family	Takht.	Asterales		
+Asteraceae	family	Bercht. & J.Presl	Asterales		nom. cons.
+Compositae	family	Giseke	Asterales		nom. cons.
+Calyceraceae	family	R.Br. ex Rich.	Asterales		nom. cons.
+Campanulaceae	family	Juss.	Asterales		nom. cons.
+Goodeniaceae	family	R.Br.	Asterales		nom. cons.
+Menyanthaceae	family	Dumort.	Asterales		nom. cons.
+Pentaphragmataceae	family	J.Agardh	Asterales		nom. cons.
+Phellinaceae	family	Takht.	Asterales		
+Rousseaceae	family	DC.	Asterales		
+Stylidiaceae	family	R.Br.	Asterales		nom. cons.
+Escalloniales	order	Link	campanulids		
+Escalloniaceae	family	R.Br. ex Dumort.	Escalloniales		nom. cons.
+Bruniales	order	Dumort. 	campanulids		
+Bruniaceae	family	R.Br. ex DC.	Bruniales		nom. cons.
+Columelliaceae	family	D.Don	Bruniales		nom. cons.
+Paracryphiales	order	Takht. ex Reveal	campanulids		
+Paracryphiaceae	family	Airy Shaw 	Paracryphiales		
+Dipsacales	order	Juss. ex Bercht. & J.Presl	campanulids		
+Adoxaceae	family	E.Mey.,nom. cons.	Dipsacales		
+Caprifoliaceae	family	Juss.	Dipsacales		nom. cons.
+Apiales	order	Nakai	campanulids		
+Apiaceae	family	Lindl.	Apiales		nom. cons.
+Umbelliferae	family	Juss.		Apiaceae	nom. cons.	
+Araliaceae	family	Juss.	Apiales		nom. cons.
+Griseliniaceae	family	Takht.	Apiales		nom. cons. prop.
+Myodocarpaceae	family	Doweld	Apiales		
+Pennantiaceae	family	J.Agardh	Apiales		
+Pittosporaceae	family	R.Br.	Apiales		nom. cons.
+Torricelliaceae	family	Hu	Apiales	

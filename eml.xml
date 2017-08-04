@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="87904172-8516-4150-877c-bf58b8cb74f3"  system="http://gbif.org" scope="system" xml:lang="en">
+
+<dataset>
+    <title>APG IV: Angiosperm Phylogeny Group classification for the orders and families of flowering plants</title>
+    <creator>
+        <organizationName>University of Tartu</organizationName>
+        <electronicMailAddress>info@plutof.ut.ee</electronicMailAddress>
+    </creator>
+    <metadataProvider>
+        <individualName>
+            <givenName>Markus</givenName>
+            <surName>Döring</surName>
+        </individualName>
+        <organizationName>GBIF</organizationName>
+        <electronicMailAddress>mdoering@gbif.org</electronicMailAddress>
+    </metadataProvider>
+    <pubDate>2017-07-16</pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>
+			Angiosperm phylogeny classification of flowering plants (APG IV) with the families organized alphabetically within orders.
+			The Angiosperm Phylogeny Group IV system of flowering plant classification is the fourth version of a modern, mostly molecular-based, system of plant taxonomy for flowering plants (angiosperms) being developed by the Angiosperm Phylogeny Group (APG). 
+			It was published in 2016, seven years after its predecessor the APG III system was published in 2009, and 18 years after the first APG system was published in 1998.
+		</para>
+    </abstract>
+    <keywordSet>
+        <keyword>phylogeny</keyword>
+        <keyword>classification</keyword>
+        <keyword>plants</keyword>
+        <keyword>botany</keyword>
+        <keyword>Angiosperms</keyword>
+        <keywordThesaurus>GBIF</keywordThesaurus>
+    </keywordSet>
+    <intellectualRights>
+		<para>
+		To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the
+		<ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode">
+		<citetitle>Public Domain (CC0 1.0)</citetitle>
+		</ulink>
+		. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.
+		</para>    </intellectualRights>
+    <distribution scope="document">
+        <online>
+            <url function="information">http://onlinelibrary.wiley.com/doi/10.1111/boj.12385/full</url>
+        </online>
+    </distribution>
+    <contact>
+        <individualName>
+            <givenName>Peter</givenName>
+            <surName>Stevens</surName>
+        </individualName>
+        <organizationName>Missouri Botanical Garden</organizationName>
+        <electronicMailAddress>peter.stevens@mobot.org</electronicMailAddress>
+    </contact>
+</dataset>
+
+
+Angiosperm Phylogeny Group (2016). "An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering plants: APG IV" (PDF). Botanical Journal of the Linnean Society. 181 (1): 1–20. doi:10.1111/boj.12385. Retrieved 11 June 2016.
+
+Byng, James W; Chase, Mark; Christenhusz, Maarten; Stevens, Peter (2016). "Angiosperm phylogeny classification of flowering plants (APG IV) with the families organized alphabetically within orders". Botanical Journal of the Linnean Society. 181.
+https://www.researchgate.net/publication/299543574_Angiosperm_phylogeny_classification_of_flowering_plants_APG_IV_with_the_families_organized_alphabetically_within_orders
+
+
+</eml:eml>
